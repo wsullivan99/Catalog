@@ -1,5 +1,5 @@
 /** Test Client for testing the Catalog class
-  * @author Professor Gregory
+  * 
   */
   
 public class Lab6
